@@ -27,6 +27,14 @@ No installation or API keys required!
 
 ---
 
+## 🖼️ Preview
+
+![RateRadar Preview](Assets/Screenshot.jpg)
+
+*Clean, intuitive interface that works on any device*
+
+---
+
 ## 🛠 Tech Stack
 
 - HTML5, CSS3 (Flexbox & Grid), Vanilla JavaScript

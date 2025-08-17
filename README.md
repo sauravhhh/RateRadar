@@ -1,4 +1,4 @@
-# RateRadar 📡💱
+# RateRadar 💱
 
 > A sleek, minimalist currency converter with real-time exchange rates for global travelers and professionals.
 

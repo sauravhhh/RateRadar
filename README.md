@@ -93,8 +93,6 @@ This project is licensed under the MIT License.
 ## 🙏 Credits
 
 - ExchangeRate-API for open, free currency data
-- Apple for iOS design principles inspiration
-- Open source community contributors
 
 ---
 

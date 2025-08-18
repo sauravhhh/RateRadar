@@ -29,7 +29,7 @@ No installation or API keys required!
 
 ## 🖼️ Preview
 
-![RateRadar Preview](Assets/Screenshot.jpg)
+![RateRadar Preview](Assets/Final.jpg)
 
 *Clean, intuitive interface that works on any device*
 
